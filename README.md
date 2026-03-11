@@ -20,7 +20,7 @@
 
 ### Languages
 <p>
-	<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,sql" alt="languages" />
+	<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,sql,react,nodejs,postgres" alt="languages" />
 </p>
 
 ### Frameworks
@@ -30,7 +30,14 @@
 
 ### Tools
 <p>
-	<img src="https://skillicons.dev/icons?i=git,github,vscode,intellij,mysql" alt="tools" />
+	<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,mysql,postgres" alt="tools" />
+	<img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Studio" />
+</p>
+
+### Deployment Tools
+<p>
+	<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+	<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000000" alt="Render" />
 </p>
 
 ## GitHub Analytics
@@ -46,7 +53,7 @@
 
 ## Featured Projects
 
-### Linkara - AI Event Management Platform
+### [Linkara - AI Event Management Platform (Team Project)](https://sdgp-eight.vercel.app/)
 - Full Stack event platform with AI features
 - Built with React, Node.js, PostgreSQL
 - Implemented Agentic AI and recommendation system
