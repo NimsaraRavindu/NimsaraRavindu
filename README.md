@@ -41,7 +41,9 @@
 🏆 Achievements
 
 🥇 1st Place — Computer Society Quiz Competition (2023)
+
 🥉 3rd Place — Inter School IT Quiz (Musaeus College 2023)
+
 🏅 Cambridge Outstanding Learner Awards (2022)
 
 📫 Connect With Me
@@ -53,5 +55,6 @@ www.linkedin.com/in/nimsara-aluthgedara-996138327
 
 <p align="center"> ⭐ *Always learning. Always building.* </p>
 
-![snake gif](https://github.com/NimsaraRavindu/NimsaraRavindu/blob/output/github-contribution-grid-snake.svg)
+
+
 
